@@ -8,7 +8,7 @@ Important Instruction:
 1. Add a config/keys.js file with the following format:  
   
 	module.exports = {  
-    	mongoURI: 'YOUR SECRET MONGODB URI HERE'  
+    &emsp;mongoURI: 'YOUR SECRET MONGODB URI HERE'  
 	};  
   
   
